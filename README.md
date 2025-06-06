@@ -1,6 +1,4 @@
-Here's a professional and clear **README.md** description for your GitHub repository based on the uploaded project notebook **"Smart Traffic Congestion Prediction Using Machine Learning"**:
 
----
 
 # 🚦 Smart Traffic Congestion Prediction Using Machine Learning
 
