@@ -63,9 +63,13 @@ Traffic congestion is a growing issue in urban areas, leading to increased trave
 * Achieved \[insert performance metric] accuracy in predicting congestion
 * Plotted geospatial insights showing congestion-prone areas
 * Time-based traffic behavior analysis using visualizations
-
+  
+*Average TCI
 ![Screenshot 2025-06-10 021138](https://github.com/user-attachments/assets/8432979b-f40d-49e3-8053-6080a506c545)
-)
+*Max TCI
+
+![image](https://github.com/user-attachments/assets/264b677f-a673-4e9f-a914-981440f6d1a2)
+
 
 ---
 
