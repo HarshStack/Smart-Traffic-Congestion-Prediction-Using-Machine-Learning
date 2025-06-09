@@ -63,6 +63,7 @@ Traffic congestion is a growing issue in urban areas, leading to increased trave
 * Achieved \[insert performance metric] accuracy in predicting congestion
 * Plotted geospatial insights showing congestion-prone areas
 * Time-based traffic behavior analysis using visualizations
+* "C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-06-10 021138.png"
 
 ---
 
