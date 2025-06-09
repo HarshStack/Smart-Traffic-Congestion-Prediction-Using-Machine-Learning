@@ -64,7 +64,7 @@ Traffic congestion is a growing issue in urban areas, leading to increased trave
 * Plotted geospatial insights showing congestion-prone areas
 * Time-based traffic behavior analysis using visualizations
 
-![Alt text](images/![Screenshot 2025-06-10 021138](https://github.com/user-attachments/assets/8432979b-f40d-49e3-8053-6080a506c545)
+![Screenshot 2025-06-10 021138](https://github.com/user-attachments/assets/8432979b-f40d-49e3-8053-6080a506c545)
 )
 
 ---
